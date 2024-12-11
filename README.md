@@ -7,4 +7,7 @@ Microsoft announced a major addition to the fabric space by introducing fabric d
    
 ## Steps
 1. Create Fabric Database:
-In a fabric enabled workspace, click on New Items
+In a fabric enabled workspace
+![Alt Text](Assets/Fabric_Enabled_Workspace.png)
+
+click on New Items
